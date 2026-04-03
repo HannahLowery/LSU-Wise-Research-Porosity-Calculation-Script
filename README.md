@@ -13,7 +13,13 @@ Matplotlib was used for visual analysis output.
 
 In order to change the image go to line 601 in the code and put the path of the image. 
 
-When the script is ran there will be a prompt to choose 3 modes in order to crete a boundary around the trees. Mode 1 is the automatic detection mode which automatically detects the boundary without user input. Mode 2 allows the user to draw a box to define the boundary manually wyou can press "r" to reset or "q" to submit boundary for calculation. Mode 3 allows the user to draw four lines to define the boundary manually press "r" to reset or "q" to submit boundaryfor calucaltion.
+When the script is ran there will be a prompt to choose 3 modes in order to crete a boundary around the trees. 
+
+Mode 1 is the automatic detection mode which automatically detects the boundary without user input. 
+
+Mode 2 allows the user to draw a box to define the boundary manually wyou can press "r" to reset or "q" to submit boundary for calculation. 
+
+Mode 3 allows the user to draw four lines to define the boundary manually press "r" to reset , "u" to undo , or "q" to submit boundaryfor calucaltion.
 ## Platforms Tested on
 - MacOS
 
