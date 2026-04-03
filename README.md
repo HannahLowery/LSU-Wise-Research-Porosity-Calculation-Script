@@ -19,9 +19,14 @@ When the script is ran there will be a prompt to choose 3 modes in order to cret
 
 # How to Run Dev and Test Environment
 python3 -m venv venv
+
 source venv/bin/activate
+
 pip install opencv-python opencv-contrib-python
+
 pip install matplotlib
+
 pip install numpy pandas
+
 python tree_detection.py
 
